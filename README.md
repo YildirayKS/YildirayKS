@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
  <a href="mailto:yildiraykarasubasi13@gmail.com"> <img src="https://camo.githubusercontent.com/7a636997757a6b8fec8abc095b48cb88dafbf47318c709d81a5b563dae1c84e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d2532334242303031422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465"></a>
  
- <a href="https://www.linkedin.com/in/y%C4%B1ld%C4%B1ray-k-3a0439228/">target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-user-name" height="25" width="40" /></a>
+ <a href="https://www.linkedin.com/in/y%C4%B1ld%C4%B1ray-k-3a0439228/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-user-name" height="25" width="40" /></a>
  <a href="https://github.com/YildirayKS"><img src="https://camo.githubusercontent.com/297212f5cfd71f14f1a774a22bfd24b24bfa996aa72f4d941f790c8606ca8f0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d2532333132313030452e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476974687562266c6f676f436f6c6f723d7768697465" style="max-width: 100%;"></a>
 
 <!--  ## My Contribution Graph
